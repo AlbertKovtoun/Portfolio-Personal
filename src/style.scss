@@ -491,6 +491,7 @@ html {
 .our-work-card-degen-ape,
 .our-work-card-bioarm,
 .our-work-card-sunice,
+.our-work-card-subway-corridor,
 .our-work-card-floating-world,
 .our-work-card-space-camp,
 .our-work-card-virtual-planet,
@@ -556,6 +557,10 @@ html {
   background-image: url("/images/sunice.jpg");
 }
 
+.our-work-card-subway-corridor {
+  background-image: url("/images/subway-corridor.jpg");
+}
+
 .our-work-card-floating-world {
   background-image: url("/images/floating-world.jpg");
 }
@@ -577,6 +582,7 @@ html {
 .our-work-card-degen-ape:hover,
 .our-work-card-bioarm:hover,
 .our-work-card-sunice:hover,
+.our-work-card-subway-corridor:hover,
 .our-work-card-floating-world:hover,
 .our-work-card-space-camp:hover,
 .our-work-card-virtual-planet:hover,
@@ -591,6 +597,7 @@ html {
 .our-work-card-degen-ape::after,
 .our-work-card-bioarm::after,
 .our-work-card-sunice::after,
+.our-work-card-subway-corridor::after,
 .our-work-card-floating-world::after,
 .our-work-card-space-camp::after,
 .our-work-card-virtual-planet::after,
@@ -612,6 +619,7 @@ html {
 .our-work-card-degen-ape:hover::after,
 .our-work-card-bioarm:hover::after,
 .our-work-card-sunice:hover::after,
+.our-work-card-subway-corridor:hover::after,
 .our-work-card-floating-world:hover::after,
 .our-work-card-space-camp:hover::after,
 .our-work-card-virtual-planet:hover::after,
@@ -769,6 +777,7 @@ html {
   .our-work-card-degen-ape,
   .our-work-card-bioarm,
   .our-work-card-sunice,
+  .our-work-card-subway-corridor,
   .our-work-card-floating-world,
   .our-work-card-space-camp,
   .our-work-card-virtual-planet,
