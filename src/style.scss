@@ -487,6 +487,7 @@ html {
 }
 
 .our-work-card-sphene,
+.our-work-card-nhl,
 .our-work-card-degen-ape,
 .our-work-card-bioarm,
 .our-work-card-sunice,
@@ -531,6 +532,10 @@ html {
   background-image: url("/images/sphene.jpg");
 }
 
+.our-work-card-nhl {
+  background-image: url("/images/nhl-breakaway.jpg");
+}
+
 .our-work-card-degen-ape {
   background-image: url("/images/degen-ape.jpg");
 }
@@ -568,6 +573,7 @@ html {
 }
 
 .our-work-card-sphene:hover,
+.our-work-card-nhl:hover,
 .our-work-card-degen-ape:hover,
 .our-work-card-bioarm:hover,
 .our-work-card-sunice:hover,
@@ -581,6 +587,7 @@ html {
 }
 
 .our-work-card-sphene::after,
+.our-work-card-nhl::after,
 .our-work-card-degen-ape::after,
 .our-work-card-bioarm::after,
 .our-work-card-sunice::after,
@@ -601,6 +608,7 @@ html {
 }
 
 .our-work-card-sphene:hover::after,
+.our-work-card-nhl:hover::after,
 .our-work-card-degen-ape:hover::after,
 .our-work-card-bioarm:hover::after,
 .our-work-card-sunice:hover::after,
@@ -757,6 +765,7 @@ html {
   }
 
   .our-work-card-sphene,
+  .our-work-card-nhl,
   .our-work-card-degen-ape,
   .our-work-card-bioarm,
   .our-work-card-sunice,
